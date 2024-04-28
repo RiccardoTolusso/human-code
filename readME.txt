@@ -1,0 +1,7 @@
+- Possiamo accedere alla credenza della nonna
+- Controlliamo gli ingredienti a casa di nonna
+- Creiamo una lista con gli ingredienti che mancano nella nostra ricetta
+- Aggiungiamo uno alla volta gli ingredienti al nostro piatto
+- Controlliamo che il piatto sia buono come quello della nonna
+- Se non è buono uguale controlliuamo di avere ancora ingredienti
+- Ripetiamo in loop finchè abbiamo il piatto buono uguale o gli ingredienti son finiti
